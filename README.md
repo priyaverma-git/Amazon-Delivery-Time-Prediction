@@ -35,9 +35,9 @@ This project predicts the delivery time for Amazon orders using geospatial and o
 ## 📊 Results
 - Best model: **Gradient Boosting Regressor**
 - Metrics:
-  - RMSE: ~44.35
-  - MAE: ~33.75
-  - R²: ~0.25
+  - RMSE: ~42.23
+  - MAE: ~31.65
+  - R²: ~0.32
 
 ## ✅ Future Enhancements
 - Add traffic/weather data
